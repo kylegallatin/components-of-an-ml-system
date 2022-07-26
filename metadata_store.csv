@@ -1,1 +1,3 @@
 timestamp,model,parameters,score,model_path
+2022-07-26 19:51:56.176934,"Pipeline(steps=[('standardscaler', StandardScaler()),
+                ('logisticregression', LogisticRegression())])","{'penalty': 'l2', 'C': 1.0, 'max_iter': 100}",0.88,data/pipeline-2022-07-26-19:51:56.176934.pkl
